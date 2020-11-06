@@ -1,0 +1,10 @@
+Random number 0 is : 169
+Random number 1 is : 230
+Random number 2 is : 336
+Random number 3 is : 92
+Random number 4 is : 267
+Random number 5 is : 152
+Random number 6 is : 482
+Random number 7 is : 366
+Random number 8 is : 138
+Random number 9 is : 122
